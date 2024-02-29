@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [gangadharure/aws-eks-best-practices](https://github.com/gangadharure/aws-eks-best-practices)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|37<br/>Tools used|02/15/24 <br/>Report generated|
+|37<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -118,7 +118,7 @@ Full tech stack [here](/techstack.md)
 |[cffi](https://pypi.org/project/cffi)|v1.14.2|09/02/20|jicowan |MIT|N/A|
 |[chardet](https://pypi.org/project/chardet)|v3.0.4|09/02/20|jicowan |LGPL-2.1|N/A|
 |[click](https://pypi.org/project/click)|v7.1.2|09/02/20|jicowan |BSD-3-Clause|N/A|
-|[cryptography](https://pypi.org/project/cryptography)|v3.3.2|02/10/21|dependabot[bot] |BSD-3-Clause,Apache-2.0|[CVE-2023-0286](https://github.com/advisories/GHSA-x4qr-2fvf-3mr5) (High)<br/>[CVE-2023-50782](https://github.com/advisories/GHSA-3ww4-gg4f-jr7f) (High)<br/>[CVE-2023-49083](https://github.com/advisories/GHSA-jfhm-5ghh-2f97) (Moderate)<br/>[CVE-2023-23931](https://github.com/advisories/GHSA-w7pp-m8wf-vj6r) (Moderate)<br/>[](https://github.com/advisories/GHSA-5cpq-8wj7-hf2v) (Low)<br/>[](https://github.com/advisories/GHSA-jm77-qphf-c4w8) (Low)<br/>[](https://github.com/advisories/GHSA-v8gr-m533-ghj9) (Low)|
+|[cryptography](https://pypi.org/project/cryptography)|v3.3.2|02/10/21|dependabot[bot] |BSD-3-Clause,Apache-2.0|[CVE-2023-0286](https://github.com/advisories/GHSA-x4qr-2fvf-3mr5) (High)<br/>[CVE-2023-50782](https://github.com/advisories/GHSA-3ww4-gg4f-jr7f) (High)<br/>[CVE-2023-49083](https://github.com/advisories/GHSA-jfhm-5ghh-2f97) (Moderate)<br/>[CVE-2023-23931](https://github.com/advisories/GHSA-w7pp-m8wf-vj6r) (Moderate)<br/>[CVE-2024-0727](https://github.com/advisories/GHSA-9v9h-cgj8-h64p) (Moderate)<br/>[](https://github.com/advisories/GHSA-v8gr-m533-ghj9) (Low)<br/>[](https://github.com/advisories/GHSA-5cpq-8wj7-hf2v) (Low)<br/>[](https://github.com/advisories/GHSA-jm77-qphf-c4w8) (Low)|
 |[docutils](https://pypi.org/project/docutils)|v0.15.2|09/02/20|jicowan |Unlicense,Python-2.0,BSD-2-Clause,CNRI-Python-GPL-Compatible|N/A|
 |[feedparser](https://pypi.org/project/feedparser)|v5.2.1|09/02/20|jicowan |Other|N/A|
 |[google-auth](https://pypi.org/project/google-auth)|v1.21.0|09/02/20|jicowan |Apache-2.0|N/A|
