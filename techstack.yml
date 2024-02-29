@@ -2,7 +2,7 @@ repo_name: gangadharure/aws-eks-best-practices
 report_id: 983717775b9a32281c81883d986b0afd
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-15T15:15:56+00:00'
+timestamp: '2024-02-29T20:04:03+00:00'
 requested_by: jicowan
 provider: github
 branch: master
@@ -271,6 +271,18 @@ tools:
     detected_date: Feb 8
     severity: moderate
     first_patched: 39.0.1
+  - name: Null pointer dereference in PKCS12 parsing
+    cve_id: CVE-2024-0727
+    cve_url: https://github.com/advisories/GHSA-9v9h-cgj8-h64p
+    detected_date: Feb 17
+    severity: moderate
+    first_patched: 42.0.2
+  - name: Vulnerable OpenSSL included in cryptography wheels
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-v8gr-m533-ghj9
+    detected_date: Sep 22
+    severity: low
+    first_patched: 41.0.4
   - name: Vulnerable OpenSSL included in cryptography wheels
     cve_id: 
     cve_url: https://github.com/advisories/GHSA-5cpq-8wj7-hf2v
@@ -283,12 +295,6 @@ tools:
     detected_date: Aug 2
     severity: low
     first_patched: 41.0.3
-  - name: Vulnerable OpenSSL included in cryptography wheels
-    cve_id: 
-    cve_url: https://github.com/advisories/GHSA-v8gr-m533-ghj9
-    detected_date: Sep 22
-    severity: low
-    first_patched: 41.0.4
 - name: docutils
   description: Docutils -- Python Documentation Utilities
   package_url: https://pypi.org/project/docutils
